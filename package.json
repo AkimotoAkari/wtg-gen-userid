@@ -7,7 +7,7 @@
     "test": "/usr/bin/env node ./test.js"
   },
   "author": "AkimotoAkari",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "pinyin": "^2.8.3",
     "wanakana": "^2.3.1",
