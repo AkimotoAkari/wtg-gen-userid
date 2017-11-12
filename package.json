@@ -1,7 +1,7 @@
 {
   "name": "wtg-gen-userid",
   "version": "1.1.1",
-  "description": "",
+  "description": "Generate user ID.",
   "main": "index.js",
   "scripts": {
     "test": "/usr/bin/env node ./test.js"
@@ -12,5 +12,6 @@
     "pinyin": "^2.8.3",
     "wanakana": "^2.3.1",
     "xregexp": "^3.2.0"
-  }
+  },
+  "repository": "AkimotoAkari/wtg-gen-userid"
 }
