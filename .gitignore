@@ -1,2 +1,3 @@
 node_modules/
 .Trashes/
+package-lock.json
